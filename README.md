@@ -203,4 +203,4 @@ If you like this project, kindly follow me on GitHub 😊
 This project has been created in reference to the template created by
 
 ## 📝 License
-This project is [MIT](https://github.com/mdg0410/Math_Magicians/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/mdg0410/Math_Magicians/blob/setUpProyect/LICENSE) licensed.

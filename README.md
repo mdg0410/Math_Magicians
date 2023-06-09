@@ -77,8 +77,10 @@ The project is built with React [Front-End].
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-**Open the live-demo of the project**
-[Project Link][]
+**Coming soon**
+
+<!-- **Open the live-demo of the project**
+[Project Link][] -->
 
 <!-- GETTING STARTED -->
 

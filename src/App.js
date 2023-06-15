@@ -1,16 +1,9 @@
-import { Component } from 'react';
 import Calculator from './components/calculator';
-import './App.css';
 
-export default class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <Calculator />
-      </div>
-    );
-  }
+const App = () => (
+  <div className="App">
+    <Calculator />
+  </div>
+);
 
-}
-
-
+export default App;

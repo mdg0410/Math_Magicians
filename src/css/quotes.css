@@ -1,4 +1,5 @@
-.Quote, .quote-box{
+.Quote,
+.quote-box {
   display: flex;
   flex-direction: column;
   width: 30%;
@@ -8,7 +9,7 @@
 
 .quote {
   color: green;
-  font-weight:500;
+  font-weight: 500;
   font-size: 20px;
 }
 
@@ -17,7 +18,7 @@
 }
 
 .quote-heading {
-  font-weight:500;
+  font-weight: 500;
   font-size: 30px;
 }
 

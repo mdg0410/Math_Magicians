@@ -3,7 +3,6 @@ import Button from './button';
 import '../calculator.css';
 import calculate from '../logic/calculate';
 
-// eslint-disable-next-line react/prefer-stateless-function
 export default class Calculator extends Component {
   constructor(props) {
     super(props);

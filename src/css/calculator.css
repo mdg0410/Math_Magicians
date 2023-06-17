@@ -1,6 +1,6 @@
 .calculator {
   display: flex;
-  width: 375px;
+  width: 30%;
   flex-wrap: wrap;
 }
 

@@ -1,0 +1,28 @@
+.Quote,
+.quote-box {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  padding: 1vh;
+  gap: 2vh;
+}
+
+.quote {
+  color: green;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.error {
+  color: red;
+}
+
+.quote-heading {
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.author {
+  font-style: italic;
+  font-size: 16px;
+}

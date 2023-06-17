@@ -1,6 +1,7 @@
 import { Component } from 'react';
 import Calculator from './components/calculator';
-import './App.css';
+import './css/App.css';
+import Quotes from './components/quotes';
 
 // eslint-disable-next-line react/prefer-stateless-function
 class App extends Component {
@@ -8,6 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <Calculator />
+        <Quotes />
       </div>
     );
   }

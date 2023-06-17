@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import Button from './button';
-import '../calculator.css';
+import '../css/calculator.css';
 import calculate from '../logic/calculate';
 
 export default class Calculator extends Component {

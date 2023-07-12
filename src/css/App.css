@@ -1,6 +1,4 @@
-*,
-*::before,
-*::after {
+*,*::before,*::after {
   box-sizing: inherit;
 }
 
@@ -25,9 +23,11 @@ ul {
   list-style-type: none;
 }
 
-.App {
-  display: flex;
-  justify-content: center;
-  padding: 3em 0;
-  gap: 4vh;
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.active {
+  color: #005bb3;
 }

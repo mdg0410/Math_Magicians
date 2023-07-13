@@ -2,27 +2,24 @@
 .quote-box {
   display: flex;
   flex-direction: column;
-  width: 30%;
-  padding: 1vh;
+  align-items: center;
+  width: 90%;
+  padding: 10vh;
   gap: 2vh;
 }
 
 .quote {
-  color: green;
+  color: rgb(8, 8, 8);
   font-weight: 500;
-  font-size: 20px;
+  font-size: 28px;
 }
 
 .error {
   color: red;
 }
 
-.quote-heading {
-  font-weight: 500;
-  font-size: 30px;
-}
-
 .author {
   font-style: italic;
-  font-size: 16px;
+  font-size: 24px;
+  font-weight: 500;
 }

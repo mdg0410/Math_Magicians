@@ -72,6 +72,7 @@ The project is built with React [Front-End].
 ### Key Features <a name="key-features"></a>
 
 - **[Calculator]**
+- **[Quote]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,7 +185,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add Full Website]**
+- [ ] **[Add more styles]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

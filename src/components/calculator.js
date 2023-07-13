@@ -1,8 +1,15 @@
 import { Component } from 'react';
 import Button from './button';
-import '../css/calculator.css';
 import calculate from '../logic/calculate';
+import '../css/calculator.css';
 
+const display = {
+  display: 'flex',
+  flexDirection: 'column',
+  justifyContent: 'center',
+  border: '1px solid #d8c9bc',
+  boxSizing: 'border-box',
+};
 export default class Calculator extends Component {
   constructor(props) {
     super(props);
@@ -29,7 +36,7 @@ export default class Calculator extends Component {
     const { total, operation, next } = this.state;
     return (
       <ul className="calculator">
-        <li aria-hidden className="operations">
+        <li aria-hidden className="operations" style={display}>
           {total}
           {operation}
           {next}

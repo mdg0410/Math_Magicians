@@ -62,10 +62,12 @@ function Quotes() {
 
   return (
     <div className="quote-box">
-      <h3 className="quote-heading">Quote</h3>
-      <p className="quote">{data.quote}</p>
-      <p className="author">
-        {data.author}
+      <p className="quote">
+        {data.quote}
+        <span className="author">
+          <> -</>
+          {data.author}
+        </span>
       </p>
     </div>
   );
